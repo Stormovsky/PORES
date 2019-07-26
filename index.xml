@@ -6,19 +6,76 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Jul 2019 18:58:11 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2019 22:43:24 +0100</lastBuildDate>
     
 	<atom:link href="//stormovsky.github.io/PORES/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>TRACMASS</title>
+      <title>TRACMASS Lagrangian trajectories code</title>
       <link>//stormovsky.github.io/PORES/post/tracmass/</link>
-      <pubDate>Fri, 26 Jul 2019 18:58:11 +0100</pubDate>
+      <pubDate>Fri, 26 Jul 2019 22:43:24 +0100</pubDate>
       
       <guid>//stormovsky.github.io/PORES/post/tracmass/</guid>
       <description>TRACMASS TRACMASS is a Lagrangian trajectory code for ocean and atmospheric general circulation models. The code makes it possible to estimate water paths, Lagrangian stream functions (barotropic and overturning), exchange times, particle sedimentation, etc. TRACMASS has been used in studies of the global ocean circulation, of sea circulation in The Baltic, The Mediterranean and in coastal regions.
 The code is written in FORTRAN 95 with modules and runs on UNIX platforms such as MAC OS X and Linux.</description>
+    </item>
+    
+    <item>
+      <title>About project PORES</title>
+      <link>//stormovsky.github.io/PORES/about/</link>
+      <pubDate>Fri, 26 Jul 2019 21:54:18 +0100</pubDate>
+      
+      <guid>//stormovsky.github.io/PORES/about/</guid>
+      <description>Project title Plymouth Marine Laboratory Research Visit
+Project acronym PORES
+Grant Connectivity Program, Gaining Experience Grant
+Unity through Knowledge Fund - UKF
+http://www.ukf.hr/
+Project leader Tomislav Džoić, PhD
+Institute of Oceanography and Fisheries
+Šetalište I. Meštrovića 63, 21000
+Split, Croatia
+Project co-leader Bror Jonsson, PhD
+Plymouth Marine Laboratory
+Prospect Place, , PL1 3DH
+Plymouth, United Kingdom
+Host organization Plymouth Marine Laboratory
+Prospect Place, Plymouth, PL1 3DH, United Kingdom
+https://www.pml.ac.uk</description>
+    </item>
+    
+    <item>
+      <title>Plymouth Marine Laboratory Research Visit</title>
+      <link>//stormovsky.github.io/PORES/post/visit/</link>
+      <pubDate>Mon, 01 Jul 2019 22:26:47 +0100</pubDate>
+      
+      <guid>//stormovsky.github.io/PORES/post/visit/</guid>
+      <description>Plymouth Marine Laboratory Research Visit started on 1 July 2019</description>
+    </item>
+    
+    <item>
+      <title>About project PORES</title>
+      <link>//stormovsky.github.io/PORES/post/aboutproject/</link>
+      <pubDate>Wed, 26 Jun 2019 22:37:13 +0100</pubDate>
+      
+      <guid>//stormovsky.github.io/PORES/post/aboutproject/</guid>
+      <description>Project title Plymouth Marine Laboratory Research Visit
+Project acronym PORES
+Grant Connectivity Program, Gaining Experience Grant
+Unity through Knowledge Fund - UKF
+http://www.ukf.hr/
+Project leader Tomislav Džoić, PhD
+Institute of Oceanography and Fisheries
+Šetalište I. Meštrovića 63, 21000
+Split, Croatia
+Project co-leader Bror Jonsson, PhD
+Plymouth Marine Laboratory
+Prospect Place, , PL1 3DH
+Plymouth, United Kingdom
+Host organization Plymouth Marine Laboratory
+Prospect Place, Plymouth, PL1 3DH, United Kingdom
+https://www.pml.ac.uk</description>
     </item>
     
   </channel>
