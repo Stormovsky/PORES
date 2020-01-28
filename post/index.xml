@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on PORES</title>
@@ -6,10 +6,38 @@
     <description>Recent content in Posts on PORES</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Jul 2019 22:43:24 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2020 20:26:47 +0100</lastBuildDate>
     
 	<atom:link href="//stormovsky.github.io/PORES/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Completed goals and project results</title>
+      <link>//stormovsky.github.io/PORES/post/completedgoals/</link>
+      <pubDate>Mon, 27 Jan 2020 20:26:47 +0100</pubDate>
+      
+      <guid>//stormovsky.github.io/PORES/post/completedgoals/</guid>
+      <description>Completed goals and project results TRACMASS model was adapted to work on personal computer for low-level simulations and also on multiprocessor server for high-level simulations.TRACMASS model was set up for complex use with two different oceanographic model outputs: ROMS Adriatic and NEMO Mediterranean outputs.The time series of coccolithophores measurement in the Adriatic Sea from the period 2003-2018 at the station Stončica near the Vis island was assesed to combine TRACMASS modeling methodology with observations from the Adriatic Sea.</description>
+    </item>
+    
+    <item>
+      <title>New projects</title>
+      <link>//stormovsky.github.io/PORES/post/newprojects/</link>
+      <pubDate>Mon, 27 Jan 2020 20:26:47 +0100</pubDate>
+      
+      <guid>//stormovsky.github.io/PORES/post/newprojects/</guid>
+      <description>##New projects
+The new HRZZ project BenthicNIS, led by Ph.D. Ante Zuljevic from the Institute of Oceanography and Fisheries, is signed. I participate in it as a collaborator and I am applying the dispersion methodology learned on the PORES project.</description>
+    </item>
+    
+    <item>
+      <title>Project conclusion</title>
+      <link>//stormovsky.github.io/PORES/post/projectconclusion/</link>
+      <pubDate>Mon, 27 Jan 2020 20:26:47 +0100</pubDate>
+      
+      <guid>//stormovsky.github.io/PORES/post/projectconclusion/</guid>
+      <description>##Project conclusionDuring my scientific visit I got new ideas that I can develop into new scientific concepts that can be published in strong scientific journals in collaboration with PML and IOF scientists and in this way strengthen the scientific field of remote sensing that no one is engaged in at the IOF. I was invited as a visiting scientist to come to the PML again, under which I would be fully funded by the PML.</description>
+    </item>
     
     <item>
       <title>TRACMASS Lagrangian trajectories code</title>
@@ -51,7 +79,8 @@ Prospect Place, , PL1 3DH
 Plymouth, United Kingdom
 Host organization Plymouth Marine Laboratory
 Prospect Place, Plymouth, PL1 3DH, United Kingdom
-https://www.pml.ac.uk</description>
+https://www.pml.ac.uk
+Beneficiary (Administering) organization Institute of Oceanography and Fisheries</description>
     </item>
     
   </channel>
